@@ -1,7 +1,7 @@
 # AS-Reasoner(Attention-based Sentiment Reasoner)
-## enviroments
+## Enviroments
 Tensorflow 1.4 + Python 3.6
-## experiments
+## Experiments
 ### asepct term level:
 Restaurant-2014: train_inter_attention_2014_v3.py
 
